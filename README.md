@@ -3,7 +3,7 @@
 Hosted reference-photo packs for Flower Finder.
 
 Production index:
-`https://raw.githubusercontent.com/juleshaggard/FlowerFinderImagePacks/main/index.json`
+`https://raw.githubusercontent.com/julesdarling/OkBloomerImagePacks/main/index.json`
 
 ## Published Files
 
